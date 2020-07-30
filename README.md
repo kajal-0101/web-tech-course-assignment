@@ -21,7 +21,6 @@ https://kajal-0101.github.io/web-tech-course-assignment/Module-4-harder-solution
 
 
 <li>
-Week-5 Assignment Solution: <br>
-https://kajal-0101.github.io/web-tech-course-assignment/Module-5-solution/index.html
-  <li>
+<a href = "https://kajal-0101.github.io/web-tech-course-assignment/Module-5-solution/index.html" target = "_blank">Week-5 Assignment Solution:/a>
+</li> 
 </ul>
