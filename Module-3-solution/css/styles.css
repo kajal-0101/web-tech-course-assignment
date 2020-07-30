@@ -1,0 +1,101 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+	box-sizing: border-box;
+}
+
+#nav-list li a{
+	text-align: center;
+	font-size: 24px;
+	color: black;
+}
+
+#nav-list li a:hover{
+	font-size: 26px;
+	color: white;
+}
+
+#chicken h3, #beef h3, #sushi h3{
+	font-size: 26px;
+	margin-bottom: 20px;
+}
+
+#chicken p, #beef p, #sushi p{
+	font-size: 18px;
+	text-align: justify;
+}
+
+#chicken h3:hover, #beef h3:hover, #sushi h3:hover{
+	font-size: 28px;
+	background: white;
+	color: black;
+}
+
+#chicken a, #beef a, #sushi a{
+	font-size: 20px;
+	color: black;
+	text-decoration: none;
+}
+
+#chicken a:hover, #beef a:hover, #sushi a:hover{
+	font-size: 20px;
+	color: white;
+	background-color: black;
+}
+
+#chicken{
+	border: black 10px;
+	border-radius: 15px;
+	background-color: #ffbe76;
+	box-shadow: 5px;
+}
+
+#beef{
+	border: black 10px;
+	border-radius: 15px;
+	background-color: #f6e58d;
+}
+
+#sushi{
+	border: black 10px;
+	border-radius: 15px;
+	background-color:#f9ca24;
+}
+
+body{
+	background: linear-gradient(to right, blue, pink);
+	background-repeat: no-repeat;
+}
+
+#page-heading{
+	font-size: 26px;
+	color: white;
+}
+
+#page-heading:hover{
+	font-size: 34px;
+	background: white;
+	color: black;
+}
+
+div section{
+	margin:10px;
+	padding: 10px;
+}
+
+.navbar-brand a{
+	text-decoration: none;
+	font-size: 28px;
+	cursor: pointer;
+	color: black;
+
+}
+
+#header-nav{
+	background: #F8EFBA;
+}
+
+#collapsable-nav{
+	background: #D6A2E8;
+}
